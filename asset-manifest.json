@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satrop/React_App/static/css/main.268ad654.css",
+    "main.js": "/satrop/React_App/static/js/main.e09a7af7.js",
+    "index.html": "/satrop/React_App/index.html",
+    "main.268ad654.css.map": "/satrop/React_App/static/css/main.268ad654.css.map",
+    "main.e09a7af7.js.map": "/satrop/React_App/static/js/main.e09a7af7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268ad654.css",
+    "static/js/main.e09a7af7.js"
+  ]
+}
